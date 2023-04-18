@@ -1,0 +1,7 @@
+1,3c1,2
+< X: no such line.
+< X: no such line.
+< A: no such stop.
+---
+> A, B, C
+> B, C
